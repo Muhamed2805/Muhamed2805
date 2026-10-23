@@ -11,40 +11,6 @@ I enjoy building practical applications, exploring different technologies, and i
 - 🌱 Continuously learning and improving through personal and collaborative projects.
 - 📍 Sarajevo, Bosnia and Herzegovina.
 
-## Tech Stack
-
-**Languages:** JavaScript, TypeScript, C#, SQL
-
-**Frontend:** React, Next.js, HTML, CSS
-
-**Backend:** Node.js, Express.js, NestJS, REST APIs
-
-**Databases:** PostgreSQL, SQL Server
-
-**Tools:** Git, GitHub, Docker
-
-## Selected Projects
-
-### [FleetCore](https://github.com/Muhamed2805/FleetCore)
-A fleet and asset management platform designed to help businesses manage vehicles, drivers, maintenance, registrations, insurance, and expenses.
-
-**Tech:** TypeScript
-
-### [SaStrane](https://github.com/Muhamed2805/SaStrane)
-A full-stack marketplace connecting clients with local service providers for everyday tasks, services, and short-term jobs.
-
-**Tech:** TypeScript, Next.js, NestJS, Prisma, PostgreSQL, JWT
-
-### [Looply](https://github.com/Muhamed2805/Looply-music-app)
-A music discovery and playlist management application with user authentication and Last.fm API integration.
-
-**Tech:** React, Node.js, Express.js, PostgreSQL, JWT
-
-### [Searching Algorithms](https://github.com/Muhamed2805/Searching_algorithm)
-A C# console application demonstrating and comparing different searching algorithms.
-
-**Tech:** C#
-
 ## GitHub Activity
 
 Most of my projects and experiments are available on my personal GitHub profile. I also maintain a separate account for work-related development.
