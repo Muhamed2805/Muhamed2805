@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Muhamed2805-181717?style=flat-square&logo=github)](https://github.com/Muhamed2805)
 [![Work Profile](https://img.shields.io/badge/Work-Muhamed2123-181717?style=flat-square&logo=github)](https://github.com/Muhamed2123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhamed-karamujic-3342491b8/)
 [![Location](https://img.shields.io/badge/Location-Sarajevo%2C%20BiH-2ea44f?style=flat-square)](https://en.wikipedia.org/wiki/Sarajevo)
 
 </div>
