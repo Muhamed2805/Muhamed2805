@@ -1,4 +1,8 @@
-# Hi, I'm Muhamed
+<h1 align="center">Hi, I'm Muhamed</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=539BF5&center=true&vCenter=true&width=600&lines=Software+Developer;Computer+Science+Student;Building+Software+Projects" alt="Typing SVG" />
+</p>
 
 Software developer from Bosnia and Herzegovina, currently completing my Bachelor's degree in Computer Science and Informatics at the Faculty of Electrical Engineering, University of Sarajevo.
 
