@@ -21,10 +21,10 @@ I'm a software developer from Bosnia and Herzegovina and a Bachelor's student in
 
 I enjoy developing practical applications, exploring new technologies, and improving my software engineering skills through hands-on projects.
 
-- 🎓 Software Development graduate, currently pursuing my Bachelor's degree.
-- 💻 Interested in backend engineering and full-stack development.
-- 🛠️ Focused on building useful applications and writing maintainable code.
-- 🌱 Always learning and exploring new ideas.
+-  Software Development graduate, currently pursuing my Bachelor's degree.
+-  Interested in backend engineering and full-stack development.
+-  Focused on building useful applications and writing maintainable code.
+-  Always learning and exploring new ideas.
 
 ## GitHub
 
