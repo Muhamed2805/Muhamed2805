@@ -35,15 +35,6 @@ I maintain two GitHub accounts to separate my personal projects from my work-rel
 | [@Muhamed2805](https://github.com/Muhamed2805) | Personal projects and experiments |
 | [@Muhamed2123](https://github.com/Muhamed2123) | Work-related development |
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhamed2805&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Muhamed's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamed2805&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
-
-</div>
 
 ## Contributions
 
